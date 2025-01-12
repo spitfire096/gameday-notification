@@ -52,7 +52,7 @@ game-day-notifications/
 ### **Clone the Repository**
 ```bash
 git clone https://github.com/spitfire096/gameday-notification.git
-cd game-day-notifications
+cd gameday-notification
 ```
 
 ### **Create an SNS Topic**
